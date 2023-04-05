@@ -2,6 +2,8 @@
 
 This project provides a simple and elegant user interface for sending text prompts to the OpenAI API and displaying the generated responses. The project consists of a Flask backend that communicates with the OpenAI API and a frontend built with HTML, CSS, and JavaScript. The entire code and documentation was created with the help of GPT-4, an advanced AI language model developed by OpenAI.
 
+![Screenshot of the UI](snapshot.jpg)
+
 ## Prerequisites
 
 - Python 3.6 or higher
